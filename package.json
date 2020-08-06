@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/avinoamr/structurize",
   "devDependencies": {
-    "csv-parse": "^1.0.4",
+    "csv-parse": "^4.12.0",
     "jsonstream2": "^1.1.1",
     "mocha": "^2.3.3",
     "tar": "^2.2.1",
